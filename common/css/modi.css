@@ -1,0 +1,35 @@
+.titulogin{
+	margin-top: 4%;
+	font-family: Montserrat-Regular;
+	color: #173885;
+}
+.mocon{
+	background: #00cec8;
+	border-radius: 10px 10px 0px 0px;
+}
+.titumo{
+	margin-right: 20%;
+	font-family: Montserrat-Regular;
+	color: #e6eeff;
+}
+
+.canboton{
+	
+	color: grey; 
+
+}
+.canboton:hover{
+	border-color:#00cec8;
+	color: #00cec8; 
+
+}
+.enviboton{
+	color: #e6eeff;
+	background:#00cec8;
+
+}
+.enviboton:hover{
+	color: #173885;
+	background:#e6eeff;
+
+}
